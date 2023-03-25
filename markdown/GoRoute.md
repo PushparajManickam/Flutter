@@ -2,9 +2,11 @@
 
 ### [Material route]('https://pub.dev/documentation/go_router/latest/topics/Get%20started-topic.html)
 
-`return MaterialApp.router(
+``
+return MaterialApp.router(
       routerConfig: _router,
-    );`
+    );
+``
 
 ### [Route config]('https://pub.dev/documentation/go_router/latest/topics/Configuration-topic.html)
 
