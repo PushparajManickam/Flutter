@@ -156,4 +156,4 @@ GoRouter(
 
 
 - [Type safe routes]('https://pub.dev/documentation/go_router/latest/topics/Type-safe%20routes-topic.html')
---[Deep Linking]('https://pub.dev/documentation/go_router/latest/topics/Deep%20linking-topic.html')
+- [Deep Linking]('https://pub.dev/documentation/go_router/latest/topics/Deep%20linking-topic.html')
