@@ -1,2 +1,40 @@
-### Package List
+# Package list
+----
+### Flutter Favorite
+1. [shared_preferences](https://pub.dev/packages/shared_preferences)
+2. [url_launcher](https://pub.dev/packages/url_launcher)
+3. [provider](https://pub.dev/packages/provider)
+4. [path_provider](https://pub.dev/packages/path_provider)
+5. [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
+6. [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+7. [geolocator](https://pub.dev/packages/geolocator)
+8. [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+9. [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
+10. [sqflite](https://pub.dev/packages/sqflite)
+11. [go_router](https://pub.dev/packages/go_router)
+12. [package_info_plus](https://pub.dev/packages/package_info_plus)
+13. [device_info_plus](https://pub.dev/packages/device_info_plus)
+14. [json_serializable](https://pub.dev/packages/json_serializable)
+15. [built_value](https://pub.dev/packages/built_value)
+16. [freezed](https://pub.dev/packages/freezed)
+17. [just_audio](https://pub.dev/packages/just_audio)
+18. [googleapis](https://pub.dev/packages/googleapis)
+19. [network_info_plus](https://pub.dev/packages/network_info_plus)
+20. [flutter_svg](https://pub.dev/packages/flutter_svg)
+21. [google_fonts](https://pub.dev/packages/google_fonts)
+22. [connectivity_plus](https://pub.dev/packages/connectivity_plus)
+23. [share_plus](https://pub.dev/packages/share_plus)
+24. [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination)
+25. [battery_plus](https://pub.dev/packages/battery_plus)
+26. [intl](https://pub.dev/packages/intl)
 
+## Other's
+
+27. [shimmer](https://pub.dev/packages/shimmer)
+28. [riverpod](https://pub.dev/packages/riverpod)
+29. [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+30. [in_app_review](https://pub.dev/packages/in_app_review)
+31. [animations](https://pub.dev/packages/animations)
+32. [equatable](https://pub.dev/packages/equatable)
+33. [get](https://pub.dev/packages/get)
+34. [Hive](https://pub.dev/packages/Hive)
